@@ -2,10 +2,16 @@
 
 Welcome to Paradise Nursery 🌱
 
-This is a shopping cart application where users can:
-- Browse plants
-- Add items to cart
-- Update quantities
+This project is an online plant shopping application.
+
+## Features
+- Browse different plants
+- Add plants to cart
+- Increase or decrease quantity
+- Remove items from cart
 - View total cost
 
-Built using React and Redux.
+## Technologies Used
+- React
+- Redux Toolkit
+- CSS
